@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student:Arman Mazidjatari
+# Groep:4ITX3
 
 # Hier komt je code...
 
